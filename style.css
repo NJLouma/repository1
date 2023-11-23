@@ -1,0 +1,19 @@
+.sticky-wapper{
+    clear: both;
+    width: 100%;
+    display: block;
+    height: auto !important;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #f0f3f3;
+    color: #5c5c5c;
+    margin: 0px;
+    padding: 0px;
+    font-family: lato,sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+
+}
